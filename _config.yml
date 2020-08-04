@@ -201,7 +201,8 @@ links_settings:
   layout: block
 
 links:
-  #Title: http://yoursite.com
+  #Title: http://sage-xiong.cn
+  sage-xiong: http://sage-xiong.cn
 
 # Table of Contents in the Sidebar
 # Front-matter variable (unsupport wrap expand_all).
